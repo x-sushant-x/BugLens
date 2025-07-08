@@ -1,0 +1,10 @@
+{
+    "name": "BugLens",
+    "Description": "BugLens Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "buglens.html",
+        "default_icon": "icon.png"
+    }
+}
